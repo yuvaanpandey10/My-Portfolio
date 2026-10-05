@@ -69,10 +69,6 @@ Follow these steps to run the portfolio locally.
 
 ### 1. Clone the repository
 
-```bash
-git clone <your-repository-url>
-```
-
 ### 2. Navigate to the project
 
 ```bash
@@ -114,14 +110,6 @@ This website serves as my personal developer portfolio where I showcase:
 - Technologies I work with
 - My development journey
 - Ways to connect with me
-
-## 📸 Screenshots
-
-Add screenshots of your portfolio here:
-
-```md
-![Portfolio Screenshot](./screenshots/home.png)
-```
 
 ## 📬 Contact
 
